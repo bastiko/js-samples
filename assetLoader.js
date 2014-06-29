@@ -90,7 +90,6 @@ var assetLoader = ( function() {
 	 */
 	function add( type, paths ) {
 		if( queue[type] == undefined ) {
-			queue[type] = { 'test' : true };
 			queue[type] = [];
 		}
 
