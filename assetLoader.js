@@ -2,7 +2,7 @@
  * Asset Loader
  *
  * Copyright 2014 Bastian Koller <bastian.koller@gmail.com>
- * Date: 2014-06-25
+ * Date: 2014-06-30
  */
 var assetLoader = ( function() {
 	
